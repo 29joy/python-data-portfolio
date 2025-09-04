@@ -20,13 +20,17 @@ It contains small but practical projects that demonstrate different use cases:
 ## 🚀 How to Run
 
 Clone the repo:
-git clone https://github.com/29joy/python-data-portfolio.git
+```bash
+git clone https://github.com/yourusername/python-data-portfolio.git
 cd python-data-portfolio
 Each folder contains its own requirements.txt and instructions.
 Please check the subfolder READMEs for details.
 
 🔑 Purpose
 This portfolio highlights:
+
 Proficiency with pandas for data wrangling
+
 Ability to transform data into visual or presentation-ready reports
+
 Flexibility to adapt outputs for different formats (Excel, HTML, PowerPoint)
