@@ -17,9 +17,10 @@ This project demonstrates how to use **pandas** and **python-pptx** to automate 
 - `sales_report.pptx` → generated output (after running the script)
 
 ## 🚀 How to Run
-
+```bash
 pip install -r requirements.txt
 python excel_to_ppt.py
+```
 Output: sales_report.pptx with 2 slides.
 
 📦 Requirements
