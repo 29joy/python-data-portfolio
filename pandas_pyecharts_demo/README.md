@@ -10,16 +10,11 @@ This project demonstrates combining **pandas** data processing with **pyecharts*
 
 All outputs are interactive **HTML files** that can be opened in any browser.
 
-## 📂 Files
-
-- `line_chart.py` → generates `output/line_chart.html`
-- `bar_chart_timeline.py` → generates `output/bar_chart_timeline.html`
-- `map_chart.py` → generates `output/map_chart.html`
-
 ## 🚀 How to Run
-
+```bash
 pip install -r requirements.txt
 run the target python file
+```
 Then open the generated HTML files inside the output/ folder with your browser.
 
 📦 Requirements
