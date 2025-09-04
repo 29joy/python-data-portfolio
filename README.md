@@ -27,7 +27,7 @@ cd python-data-portfolio
 Each folder contains its own requirements.txt and instructions.
 Please check the subfolder READMEs for details.
 
-🔑 Purpose
+## 🔑 Purpose
 This portfolio highlights:
 
 Proficiency with pandas for data wrangling
