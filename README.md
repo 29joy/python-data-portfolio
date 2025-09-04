@@ -23,6 +23,7 @@ Clone the repo:
 ```bash
 git clone https://github.com/yourusername/python-data-portfolio.git
 cd python-data-portfolio
+```
 Each folder contains its own requirements.txt and instructions.
 Please check the subfolder READMEs for details.
 
